@@ -1,31 +1,20 @@
-<link rel="stylesheet" href="style.css"></link>
+<div align="center">
+  
+  <p>👋 Hi there! I'm Chris, and I like to program whatever comes to my mind in my spare time.</p>
 
-### Hi there 👋
-
----
-
-aa|bb|cc
---|--|--
-ee|ff|gg
-
-<table align="center">
-  <tr>
-    <td>
-      <table>
-      <thead>
-      <tr><th colspan="2">Quick Info</th></tr>
-      </thead>
-      <tbody>
-      <tr><th scope='row'>Name</th><td>Christian García</td></tr>
-      <tr><th scope='row'>Nationality</th><td>Spanish</td></tr>
-      <tr><th scope='row'>Studies</th><td>Currently studying Computer Science</td></tr>
-      <tr><th scope='row'>Occupation</th><td>None</td></tr>
-      <!--<tr><th scope='row'>Skills</th><td>HTML, CSS, JavaScript, Node.js, SEO</td></tr>-->
-      </tbody>
-      </table>
-    </td>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chgv99&layout=compact&theme=radical" /></td>
-  </tr>
+  <table display="inline-block">
+  <thead>
+  <tr><th colspan="2">Quick Info</th></tr>
+  </thead>
+  <tbody>
+  <tr><th scope='row'>Full Name</th><td>Christian García Viguera</td></tr>
+  <tr><th scope='row'>Nationality</th><td>Spanish</td></tr>
+  <tr><th scope='row'>Studies</th><td>Currently studying Computer Science</td></tr>
+  <tr><th scope='row'>Occupation</th><td>None</td></tr>
+  <!--<tr><th scope='row'>Skills</th><td>HTML, CSS, JavaScript, Node.js, SEO</td></tr>-->
+  </tbody>
+  </table>
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chgv99&layout=compact&theme=radical" />
 </div>
 <!--
 [![Chgv99's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chgv99)](https://github.com/anuraghazra/github-readme-stats)
