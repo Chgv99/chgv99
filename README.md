@@ -1,24 +1,32 @@
 <!---->
+  <p align="center">👋 Hi there! I'm Chris, and I like to program whatever comes to my mind in my spare time.</p>
   
-  <div align="center"><p>👋 Hi there! I'm Chris, and I like to program whatever comes to my mind in my spare time.</p></div>
+  <br>
 
   <table align="left">
-  <thead>
-  <tr><th colspan="2">Quick Info</th></tr>
-  </thead>
-  <tbody>
-  <tr><th scope='row'>Full Name</th><td>Christian García Viguera</td></tr>
-  <tr><th scope='row'>Country</th><td>Spain</td></tr>
-  <tr><th scope='row'>Languages</th><td>Spanish, English</td></tr>
-  <tr><th scope='row'>Studies</th><td>Currently studying Computer Science</td></tr>
-  <tr><th scope='row'>Occupation</th><td>None</td></tr>
-  <!--<tr><th scope='row'>Skills</th><td>HTML, CSS, JavaScript, Node.js, SEO</td></tr>-->
-  </tbody>
+    <thead>
+    <tr><th colspan="2">Quick Info</th></tr>
+    </thead>
+    <tbody>
+    <tr><th scope='row'>Full Name</th><td>Christian García Viguera</td></tr>
+    <tr><th scope='row'>Country</th><td>Spain</td></tr>
+    <tr><th scope='row'>Languages</th><td>Spanish, English</td></tr>
+    <tr><th scope='row'>Studies</th><td>Currently studying Computer Science</td></tr>
+    <tr><th scope='row'>Occupation</th><td>None</td></tr>
+    <!--<tr><th scope='row'>Skills</th><td>HTML, CSS, JavaScript, Node.js, SEO</td></tr>-->
+    </tbody>  
   </table>
+  
   <div align="right">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chgv99&layout=compact&theme=radical" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chgv99&layout=compact&theme=radical" />
   </div>
+
+<!--
+---
+
+<div align="none">
+  <p>Check out my biggest repositories down below.</p>
+</div>-->
 
 <!--
 [![Chgv99's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chgv99)](https://github.com/anuraghazra/github-readme-stats)
@@ -39,6 +47,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
----
 
-Check out my biggest repositories down below.
