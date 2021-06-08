@@ -1,8 +1,8 @@
-<div align="center">
+<!---->
   
-  <p>👋 Hi there! I'm Chris, and I like to program whatever comes to my mind in my spare time.</p>
+  <div align="center"><p>👋 Hi there! I'm Chris, and I like to program whatever comes to my mind in my spare time.</p></div>
 
-  <table display="inline-block">
+  <table align="left">
   <thead>
   <tr><th colspan="2">Quick Info</th></tr>
   </thead>
@@ -15,8 +15,11 @@
   <!--<tr><th scope='row'>Skills</th><td>HTML, CSS, JavaScript, Node.js, SEO</td></tr>-->
   </tbody>
   </table>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chgv99&layout=compact&theme=radical" />
-</div>
+  <div align="right">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chgv99&layout=compact&theme=radical" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chgv99&layout=compact&theme=radical" />
+  </div>
+
 <!--
 [![Chgv99's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chgv99)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -35,3 +38,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
+
+Check out my biggest repositories down below.
