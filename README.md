@@ -8,7 +8,8 @@
   </thead>
   <tbody>
   <tr><th scope='row'>Full Name</th><td>Christian García Viguera</td></tr>
-  <tr><th scope='row'>Nationality</th><td>Spanish</td></tr>
+  <tr><th scope='row'>Country</th><td>Spain</td></tr>
+  <tr><th scope='row'>Languages</th><td>Spanish, English</td></tr>
   <tr><th scope='row'>Studies</th><td>Currently studying Computer Science</td></tr>
   <tr><th scope='row'>Occupation</th><td>None</td></tr>
   <!--<tr><th scope='row'>Skills</th><td>HTML, CSS, JavaScript, Node.js, SEO</td></tr>-->
