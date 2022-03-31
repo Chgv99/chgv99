@@ -1,7 +1,7 @@
 <!---->
 <p align="center">
   👋 Hi there! I'm Chris, and I like to program whatever comes to my mind in my spare time.
-  You can get to know me and my works <a href="chgv99.github.io">here.</a>
+  You can get to know me and my works <a href="https://chgv99.github.io">here.</a>
 </p>
 <p>
   
